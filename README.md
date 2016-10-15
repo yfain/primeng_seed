@@ -13,5 +13,7 @@ The browser opens a page that includes:
   ButtonModule
   ConfirmDialogModule
 
+For description of this seed project see https://yakovfain.com/2016/10/06/primeng-ui-components-for-angular-2
+
 
 Add more PrimeNG components as needed. See http://www.primefaces.org/primeng for details

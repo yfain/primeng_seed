@@ -309,6 +309,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../handouts/unit5/http_websocket_samples/server/simple_websocket_server.ts" afterPath="$PROJECT_DIR$/../../handouts/unit5/http_websocket_samples/server/simple_websocket_server.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../handouts/unit5/http_websocket_samples/tsconfig.json" afterPath="$PROJECT_DIR$/../../handouts/unit5/http_websocket_samples/tsconfig.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../handouts/unit5/http_websocket_samples/typings.json" afterPath="$PROJECT_DIR$/../../handouts/unit5/http_websocket_samples/typings.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="angular-seed.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -421,8 +422,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="240">
-                <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="109" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -482,8 +483,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-795" />
-    <option name="y" value="-347" />
+    <option name="x" value="-986" />
+    <option name="y" value="-345" />
     <option name="width" value="790" />
     <option name="height" value="1053" />
   </component>
@@ -556,7 +557,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v5.2.0/bin/node" />
     <property name="typescript-compiler-editor-notification" value="false" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
@@ -667,16 +668,16 @@
       <workItem from="1476234167415" duration="1575000" />
       <workItem from="1476274261769" duration="115000" />
       <workItem from="1476563569085" duration="2858000" />
-      <workItem from="1476567737176" duration="474000" />
+      <workItem from="1476567737176" duration="714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67426000" />
+    <option name="totallyTimeSpent" value="67666000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-795" y="-347" width="790" height="1053" extended-state="0" />
-    <editor active="false" />
+    <frame x="-986" y="-345" width="790" height="1053" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2925878" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1162,8 +1163,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="109" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
             <folding />
           </first_editor>
           <second_editor />
