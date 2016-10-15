@@ -20,7 +20,6 @@ export class AppComponent {
     userResponse: Message[]=[];
     theUserSaid: string;
 
-
     constructor(private confirmationService: ConfirmationService) {}
 
     onChangeEvent({target}){
