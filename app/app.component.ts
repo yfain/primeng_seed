@@ -1,4 +1,6 @@
-import {Component} from '@angular/core';
+/// <reference path="../node_modules/primeng/primeng.d.ts" />
+
+import {Component, ViewEncapsulation} from '@angular/core';
 import {ConfirmationService, Message} from "primeng/components/common/api";
 
 @Component({
@@ -6,14 +8,15 @@ import {ConfirmationService, Message} from "primeng/components/common/api";
     template: `<h1>Hello from PrimeNG!</h1>
                <input type="text" pInputText placeholder="Enter your name"
                (change)="onChangeEvent($event)" />
-               <button pButton type="text" 
+               <button pButton type="text"
                     (click)="greetMe()" icon="fa-check" label="Greet me"></button>
 
                <p> {{theUserSaid}}
-               
-               <p-confirmDialog width="400"></p-confirmDialog>     
+
+               <p-confirmDialog width="400"></p-confirmDialog>
               `,
     providers:  [ConfirmationService]
+    //,encapsulation: ViewEncapsulation.Native   // Native is not supported
 })
 export class AppComponent {
     name: string;
